@@ -1,0 +1,21 @@
+.container{
+    height:650px;
+    width:500px;
+    background-color:blue;
+    border-radius:9px;
+    text-align:center;
+    color:red;
+    margin:50px auto;
+    font-size:30px;
+}
+.bob{
+  width:158px;
+  height:30px;
+  color:red;
+  border-radius:9px;
+  background-color:black;
+}
+.results{
+    margin:10px;
+    font-size:20px;
+}
